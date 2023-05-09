@@ -1,0 +1,14 @@
+{
+    "ls":"listDir",
+    "list":"listDir",
+    "cd":"changeCWD",
+    "clear":"clearTerminal",
+    "nano":"nano",
+    "rm":"removeFile",
+    "remove":"removeFile",
+    "python3":"runPython3",
+    "python":"runPython",
+    "mkdir":"makeDirectory",
+    "mkFolder":"makeDirectory",
+    "history":"printHistory"
+}
